@@ -1,0 +1,3 @@
+com\example\cicdSample\CICD\ServletInitializer.class
+com\example\cicdSample\CICD\CicdApplication.class
+com\example\cicdSample\CICD\HelloController.class
