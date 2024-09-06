@@ -1,3 +1,7 @@
 Project is database intensive (OracleDB). Developer 
 should understand existing SQL queries, Views, Functions 
 and procedures. Make changes in them if required.
+
+All the projects are currently using gradle. Developer 
+should be proficient using basic gradle commands for 
+building projects.
